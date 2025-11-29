@@ -19,6 +19,7 @@ All requests require an API key. Use the built-in developer portal:
 1. Go to [url.ashin.me](https://url.ashin.me) to access the portal.
 2. Create an account or log in.
 3. Click "API Key" button. this will take you to the [developer page](https://url.ashin.me/developers).
+4. Then click "create new key button" to generate your API key.
 
 ## Quick Start
 
